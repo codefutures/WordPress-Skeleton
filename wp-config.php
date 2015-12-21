@@ -8,10 +8,10 @@ if ( file_exists( dirname( __FILE__ ) . '/local-config.php' ) ) {
 } else {
 	/* Grab db credentials, keys and salts from environment */
 	define( 'WP_LOCAL_DEV', false );
-	define( 'DB_NAME', $_SERVER['DB_NAME'] );
-	define( 'DB_USER', $_SERVER['DB_USER'] );
-	define( 'DB_PASSWORD', $_SERVER['DB_PASSWORD'] );
-	define( 'DB_HOST', $_SERVER['DB_HOST'] );
+	define( 'DB_NAME', $_SERVER['RDS_DB_NAME'] );
+	define( 'DB_USER', $_SERVER['RDS_USERNAME'] );
+	define( 'DB_PASSWORD', $_SERVER['RDS_PASSWORD'] );
+	define( 'DB_HOST', $_SERVER['RDS_HOSTNAME'] );
 	// ===================
 	// Remap site url
 	// ===================

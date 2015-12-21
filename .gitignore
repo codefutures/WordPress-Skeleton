@@ -4,3 +4,7 @@
 /db-sync
 /content/upgrade/
 .DS_Store
+# Elastic Beanstalk Files
+.elasticbeanstalk/*
+!.elasticbeanstalk/*.cfg.yml
+!.elasticbeanstalk/*.global.yml
