@@ -35,20 +35,20 @@ define( 'DB_COLLATE', '' );
 // Salts, for security
 // Grab these from: https://api.wordpress.org/secret-key/1.1/salt
 // ==============================================================
-define('AUTH_KEY',         'p$64b^-t|1o,$TEN^q=R:e|=:Wp{<FBzE(IMfeb8V(Vt%/]Dn+4MK[946={/}4[}');
-define('SECURE_AUTH_KEY',  'Nl,gKQ>zC;Hg?{Dxp}~C5CYi}{lbMEBFjZ9(G&D7K[|6AB)fNHf@<Ut=i@&s{@wx');
-define('LOGGED_IN_KEY',    'bxBhfttme15]9#,T)^su~k^$s,k-=De)aTR-C`NVJ<?&iFx?l-LJNR?|v+NVfWl)');
-define('NONCE_KEY',        '[04%TsN#=^}&)~SM?Bfj3}|{gn8gr/Y~jv4Gz3;Bu?Qfz#`EU,bFI>#wW(X7G+>o');
-define('AUTH_SALT',        '@I-7S/9%Cq!./HP-<w +ImMq+B@wT&xIdP`3)IOOet(wXJ=X?~9E}RL1Vw{2 AD6');
-define('SECURE_AUTH_SALT', 'V;}3`9HuN~}`fX%@j_*;F&J6.^d-+lGM8J:Lkepsw:8KT +w(N.K)rWumOW6hI@J');
-define('LOGGED_IN_SALT',   '&.7}.-#Hx.zJ@(1{|@~`nmBy;lSCxfM!44)at[:yO3V1sB65n6fF;C0;p4p^Vw<T');
-define('NONCE_SALT',       'y-*~0-CLJLJOrs]0p,6.xW7t)C>Bftdi|GNjysPJMGo22a#Pp6&ZwaG:~uL;M7n;');
+define('AUTH_KEY',         ']eqfdTQ8G&h}0vmRvdje-_w)N4&fzOg7pk%Mt;;hHn])rL0`]v#^SXvZf~d:z^h3');
+define('SECURE_AUTH_KEY',  'kcH.$-_//!S%Bip}Y;Em>3}L*BoB/zBa`CIpD.;y<zQq3-oz^SDK~~gbftRbMf6a');
+define('LOGGED_IN_KEY',    'B$v>sZ%F.z^YSi@g$L*BJ=TEf8?S?~*[yfCoQ1#9@mOP@!LBN[foV$2)Z5JH-rOW');
+define('NONCE_KEY',        'CxwB_G*lkMBL(%(/E|WC||}e^awL8bE*YF(N@cE;|A0yJUU#^@)PUC0x-}<Vr#y|');
+define('AUTH_SALT',        'TA+bdzjfvMM(>6xvhwUP+-!-nH7AqDe3&+~XQeq)c+j1.O#sgYW|<VSw-$y>fd+.');
+define('SECURE_AUTH_SALT', ',!R^mxG2?0|bb%Er9N=j0T}a-n,535xe=t@u7>Uy?/]Eu40]Ac+ie<XD_LFkGn&)');
+define('LOGGED_IN_SALT',   'k|(T_,d{HygZu1_f$7fM=+,hewyYtI4-#qN$a@l2nv!3$Q*!nG#@NpSc&y8dtB}|');
+define('NONCE_SALT',       '(w}gDf0`;M`,[M0c_|:%5Va0|&ZR.1g7|K]6tL`HPouAUd]Ja0i|vhKS JvUi;DV');
 
 // ==============================================================
 // Table prefix
 // Change this if you have multiple installs in the same database
 // ==============================================================
-$table_prefix  = 'wp_';
+$table_prefix  = 'wpag_';
 
 // ================================
 // Language
