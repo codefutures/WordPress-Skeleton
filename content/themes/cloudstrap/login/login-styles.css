@@ -1,0 +1,131 @@
+/*
+Theme Name: CloudStrap
+CloudStrap Custom Login Page
+*/
+
+body.login, html {
+    background: url("/wp-content/themes/cloudstrap/images/redBG.jpg") no-repeat fixed center top rgba(2, 26, 43, 1);
+}
+
+body.login, html {
+    background-size: cover !important;
+}
+
+body.login {
+    padding-top: 0 !important;
+}
+
+.login h1 a {
+	background-image: url('/wp-content/themes/cloudstrap/login/logo.png');
+	background-size: 100% 100%;
+	width: 320px;
+	height: 100px;
+	margin-bottom: 0;
+}
+
+#login {
+	padding: 8% 0 0;
+	width: 400px;	
+}
+
+.login form {
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 10px;
+	padding: 30px;
+	border: 1px solid rgba(0,0,0,.2);
+	background-clip: padding-box;
+	background: rgba(2, 2, 2, 0.8);
+	box-shadow: 2px 2px 5px;
+	overflow: hidden;
+}
+
+.login label {
+	color: #fff;
+	line-height: 26px;
+}
+
+.login form .input, .login input[type="text"] {
+	border-radius: 6px;
+	line-height: 1.6;
+	margin-bottom: 10px;
+	margin-right: 0;
+	padding: 5px 10px;
+}
+
+.login input[type="checkbox"]:focus, .login input[type="password"]:focus, .login input[type="text"]:focus {
+	border-color: #b2b2b2;
+	box-shadow: none;
+}
+
+.login form .input, .login input[type="text"] {
+	border-radius: 6px;
+	line-height: 1.6;
+	margin-bottom: 10px;
+	margin-right: 0;
+	padding: 5px 10px;
+}
+
+.login .button-primary {
+	background-color: #b2b2b2;
+	background-image: none;
+	border-color: #818181;
+	border-radius: 6px;
+	box-shadow: none;
+	color: #fff;
+	display: block;
+	font-size: 18px;
+	font-weight: 400;
+	height: 46px !important;
+	line-height: 1.33 !important;
+	margin-bottom: 0;
+	margin-top: 15px;
+	padding: 10px 16px !important;
+	text-align: center;
+	text-transform: none;
+	vertical-align: middle !important;
+	white-space: nowrap;
+	width: 100%;
+}
+
+.login .button-primary:hover, .login .button-primary:active, .login .button-primary:focus {
+	background-color: #595959;
+	border-color: #3b3b3b;
+	color: #fff;
+	box-shadow: none;
+}
+
+.login #nav a {
+	float: right;
+}
+
+.login #backtoblog a, .login #nav a {
+	color: #818181;
+}
+
+.login #backtoblog a:hover, .login #nav a:hover, .login h1 a:hover {
+	color: #818181;
+	text-shadow: 0 1px 0 #dbdbdb;
+	text-decoration: underline;
+}
+
+@media (max-width: 479px) {
+
+#login {
+	width: 320px;
+	margin: auto;
+}
+
+.login h1 a {
+    background-size: 80% 80%;
+}
+
+.login form {
+	padding: 30px 15px;
+}
+
+.login #backtoblog, .login #nav {
+    padding: 0 10px;
+}
+
+}

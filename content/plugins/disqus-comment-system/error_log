@@ -1,0 +1,20 @@
+[11-Oct-2015 05:46:34 America/Denver] PHP Notice:  Use of undefined constant DISQUS_DEBUG - assumed 'DISQUS_DEBUG' in /home1/agildata/public_html/wp-content/plugins/disqus-comment-system/comments.php on line 2
+[11-Oct-2015 05:46:34 America/Denver] PHP Fatal error:  Call to undefined function get_post_meta() in /home1/agildata/public_html/wp-content/plugins/disqus-comment-system/comments.php on line 3
+[11-Oct-2015 05:46:34 America/Denver] PHP Notice:  Use of undefined constant DISQUS_DEBUG - assumed 'DISQUS_DEBUG' in /home1/agildata/public_html/wp-content/plugins/disqus-comment-system/comments.php on line 2
+[11-Oct-2015 05:46:34 America/Denver] PHP Fatal error:  Call to undefined function get_post_meta() in /home1/agildata/public_html/wp-content/plugins/disqus-comment-system/comments.php on line 3
+[29-Oct-2015 07:03:06 America/Denver] PHP Notice:  Use of undefined constant DISQUS_DEBUG - assumed 'DISQUS_DEBUG' in /home1/agildata/public_html/wp-content/plugins/disqus-comment-system/comments.php on line 2
+[29-Oct-2015 07:03:06 America/Denver] PHP Fatal error:  Call to undefined function get_post_meta() in /home1/agildata/public_html/wp-content/plugins/disqus-comment-system/comments.php on line 3
+[29-Oct-2015 07:03:11 America/Denver] PHP Notice:  Use of undefined constant DISQUS_DEBUG - assumed 'DISQUS_DEBUG' in /home1/agildata/public_html/wp-content/plugins/disqus-comment-system/comments.php on line 2
+[29-Oct-2015 07:03:11 America/Denver] PHP Fatal error:  Call to undefined function get_post_meta() in /home1/agildata/public_html/wp-content/plugins/disqus-comment-system/comments.php on line 3
+[29-Nov-2015 06:08:11 America/Denver] PHP Notice:  Use of undefined constant DISQUS_DEBUG - assumed 'DISQUS_DEBUG' in /home1/agildata/public_html/wp-content/plugins/disqus-comment-system/comments.php on line 2
+[29-Nov-2015 06:08:11 America/Denver] PHP Fatal error:  Call to undefined function get_post_meta() in /home1/agildata/public_html/wp-content/plugins/disqus-comment-system/comments.php on line 3
+[29-Nov-2015 06:08:15 America/Denver] PHP Notice:  Use of undefined constant DISQUS_DEBUG - assumed 'DISQUS_DEBUG' in /home1/agildata/public_html/wp-content/plugins/disqus-comment-system/comments.php on line 2
+[29-Nov-2015 06:08:15 America/Denver] PHP Fatal error:  Call to undefined function get_post_meta() in /home1/agildata/public_html/wp-content/plugins/disqus-comment-system/comments.php on line 3
+[14-Dec-2015 03:30:15 America/Denver] PHP Notice:  Use of undefined constant DISQUS_DEBUG - assumed 'DISQUS_DEBUG' in /home1/agildata/public_html/wp-content/plugins/disqus-comment-system/comments.php on line 2
+[14-Dec-2015 03:30:15 America/Denver] PHP Fatal error:  Call to undefined function get_post_meta() in /home1/agildata/public_html/wp-content/plugins/disqus-comment-system/comments.php on line 3
+[14-Dec-2015 03:30:17 America/Denver] PHP Notice:  Use of undefined constant DISQUS_DEBUG - assumed 'DISQUS_DEBUG' in /home1/agildata/public_html/wp-content/plugins/disqus-comment-system/comments.php on line 2
+[14-Dec-2015 03:30:17 America/Denver] PHP Fatal error:  Call to undefined function get_post_meta() in /home1/agildata/public_html/wp-content/plugins/disqus-comment-system/comments.php on line 3
+[19-Dec-2015 02:28:12 America/Denver] PHP Notice:  Use of undefined constant DISQUS_DEBUG - assumed 'DISQUS_DEBUG' in /home1/agildata/public_html/wp-content/plugins/disqus-comment-system/comments.php on line 2
+[19-Dec-2015 02:28:12 America/Denver] PHP Fatal error:  Call to undefined function get_post_meta() in /home1/agildata/public_html/wp-content/plugins/disqus-comment-system/comments.php on line 3
+[19-Dec-2015 02:28:14 America/Denver] PHP Notice:  Use of undefined constant DISQUS_DEBUG - assumed 'DISQUS_DEBUG' in /home1/agildata/public_html/wp-content/plugins/disqus-comment-system/comments.php on line 2
+[19-Dec-2015 02:28:14 America/Denver] PHP Fatal error:  Call to undefined function get_post_meta() in /home1/agildata/public_html/wp-content/plugins/disqus-comment-system/comments.php on line 3
