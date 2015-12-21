@@ -1,0 +1,3 @@
+CREATE TABLE `wpag_bpspro_db_backup` (  `bps_id` bigint(20) NOT NULL AUTO_INCREMENT,  `bps_table_name` text NOT NULL,  `bps_desc` text NOT NULL,  `bps_job_type` varchar(9) NOT NULL DEFAULT '',  `bps_frequency` varchar(7) NOT NULL DEFAULT '',  `bps_last_job` varchar(30) NOT NULL DEFAULT '',  `bps_next_job` varchar(30) NOT NULL DEFAULT '',  `bps_next_job_unix` varchar(10) NOT NULL DEFAULT '',  `bps_email_zip` varchar(10) NOT NULL DEFAULT '',  `bps_job_created` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',  UNIQUE KEY `bps_id` (`bps_id`)) ENGINE=MyISAM DEFAULT CHARSET=latin1;
+/*!40000 ALTER TABLE `wpag_bpspro_db_backup` DISABLE KEYS */;
+/*!40000 ALTER TABLE `wpag_bpspro_db_backup` ENABLE KEYS */;
